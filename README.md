@@ -14,7 +14,7 @@ To enojoy this extension:
 
 clone this repository to your local machine.
 
-Navigate to the project directory and install the dependencies.
+Navigate to the project directory and install the dependencies:
 
 $ npm install
 
