@@ -1,0 +1,17 @@
+{
+  "name": "Most visited sites extension",
+  "description": "Base Level Extension",
+  "version": "1.0",
+  "manifest_version": 3,
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "permissions": [
+    "topSites",
+    "downloads"
+  ],
+  "host_permissions": [
+    "http://www.blogger.com/",
+    "http://*.google.com/"
+  ]
+}
