@@ -16,6 +16,8 @@ clone this repository to your local machine.
 
 Navigate to the project directory and install the dependencies:
 
+cd top-visited-websites-chrome-extension/src
+
 $ npm install
 
 To build the extension, run:
